@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="LeetCode" Database="" Version="10000">
+  <Project Name="1491_Average_Salary_excluding_maximum_and_minimum_salary" Path="1491_Average_Salary_excluding_maximum_and_minimum_salary/1491_Average_Salary_excluding_maximum_and_minimum_salary.project" Active="No"/>
+  <Project Name="191_Number_of_1_bits" Path="191_Number_of_1_bits/191_Number_of_1_bits.project" Active="No"/>
+  <Project Name="1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer" Path="1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer/1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.project" Active="No"/>
+  <Project Name="976_Largest_Perimeter_Triangle" Path="976_Largest_Perimeter_Triangle/976_Largest_Perimeter_Triangle.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="1491_Average_Salary_excluding_maximum_and_minimum_salary" ConfigName="Debug"/>
+      <Project Name="191_Number_of_1_bits" ConfigName="Debug"/>
+      <Project Name="1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer" ConfigName="Debug"/>
+      <Project Name="976_Largest_Perimeter_Triangle" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="1491_Average_Salary_excluding_maximum_and_minimum_salary" ConfigName="Release"/>
+      <Project Name="191_Number_of_1_bits" ConfigName="Release"/>
+      <Project Name="1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer" ConfigName="Release"/>
+      <Project Name="976_Largest_Perimeter_Triangle" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
