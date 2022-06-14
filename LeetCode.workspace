@@ -3,7 +3,9 @@
   <Project Name="1491_Average_Salary_excluding_maximum_and_minimum_salary" Path="1491_Average_Salary_excluding_maximum_and_minimum_salary/1491_Average_Salary_excluding_maximum_and_minimum_salary.project" Active="No"/>
   <Project Name="191_Number_of_1_bits" Path="191_Number_of_1_bits/191_Number_of_1_bits.project" Active="No"/>
   <Project Name="1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer" Path="1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer/1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.project" Active="No"/>
-  <Project Name="976_Largest_Perimeter_Triangle" Path="976_Largest_Perimeter_Triangle/976_Largest_Perimeter_Triangle.project" Active="Yes"/>
+  <Project Name="976_Largest_Perimeter_Triangle" Path="976_Largest_Perimeter_Triangle/976_Largest_Perimeter_Triangle.project" Active="No"/>
+  <Project Name="1779_Find_Nearest_Point_That_Has_the_Same_X_or_Y_Coordinate" Path="1779_Find_Nearest_Point_That_Has_the_Same_X_or_Y_Coordinate/1779_Find_Nearest_Point_That_Has_the_Same_X_or_Y_Coordinate.project" Active="Yes"/>
+  <Project Name="1822_Sign_of_the_Product_of_an_Array" Path="1822_Sign_of_the_Product_of_an_Array/1822_Sign_of_the_Product_of_an_Array.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -11,6 +13,8 @@
       <Project Name="191_Number_of_1_bits" ConfigName="Debug"/>
       <Project Name="1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer" ConfigName="Debug"/>
       <Project Name="976_Largest_Perimeter_Triangle" ConfigName="Debug"/>
+      <Project Name="1779_Find_Nearest_Point_That_Has_the_Same_X_or_Y_Coordinate" ConfigName="Debug"/>
+      <Project Name="1822_Sign_of_the_Product_of_an_Array" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -18,6 +22,8 @@
       <Project Name="191_Number_of_1_bits" ConfigName="Release"/>
       <Project Name="1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer" ConfigName="Release"/>
       <Project Name="976_Largest_Perimeter_Triangle" ConfigName="Release"/>
+      <Project Name="1779_Find_Nearest_Point_That_Has_the_Same_X_or_Y_Coordinate" ConfigName="Release"/>
+      <Project Name="1822_Sign_of_the_Product_of_an_Array" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
