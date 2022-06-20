@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ 1779_Find_Nearest_Point_That_Has_the_Same_X_or_Y_Coordinate - Debug ]----------"
-	@cd "1779_Find_Nearest_Point_That_Has_the_Same_X_or_Y_Coordinate" && "$(MAKE)" -f  "1779_Find_Nearest_Point_That_Has_the_Same_X_or_Y_Coordinate.mk"
+	@echo "----------Building project:[ 1232_Check_if_it_is_a_straight_line - Debug ]----------"
+	@cd "1232_Check_if_it_is_a_straight_line" && "$(MAKE)" -f  "1232_Check_if_it_is_a_straight_line.mk"
 clean:
-	@echo "----------Cleaning project:[ 1779_Find_Nearest_Point_That_Has_the_Same_X_or_Y_Coordinate - Debug ]----------"
-	@cd "1779_Find_Nearest_Point_That_Has_the_Same_X_or_Y_Coordinate" && "$(MAKE)" -f  "1779_Find_Nearest_Point_That_Has_the_Same_X_or_Y_Coordinate.mk" clean
+	@echo "----------Cleaning project:[ 1232_Check_if_it_is_a_straight_line - Debug ]----------"
+	@cd "1232_Check_if_it_is_a_straight_line" && "$(MAKE)" -f  "1232_Check_if_it_is_a_straight_line.mk" clean

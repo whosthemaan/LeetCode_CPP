@@ -1,3 +1,6 @@
+D:\Rohan\Cplusplus\LeetCode\LeetCode\1232_Check_if_it_is_a_straight_line\main.cpp
+D:\Rohan\Cplusplus\LeetCode\LeetCode\1502_Can_Make_Arithmetic_Progression_From_Sequence\main.cpp
+D:\Rohan\Cplusplus\LeetCode\LeetCode\Learning_Arrays\main.cpp
 D:\Rohan\Cplusplus\LeetCode\LeetCode\1822_Sign_of_the_Product_of_an_Array\main.cpp
 D:\Rohan\Cplusplus\LeetCode\LeetCode\1779_Find_Nearest_Point_That_Has_the_Same_X_or_Y_Coordinate\main.cpp
 D:\Rohan\Cplusplus\LeetCode\LeetCode\976_Largest_Perimeter_Triangle\main.cpp
