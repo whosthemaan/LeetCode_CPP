@@ -14,6 +14,7 @@ bool checkStraightline(vector<vector<int>> &coordinates)
     }
     return true;
 }
+
 int main()
 {
     vector<vector<int>> coordinates {{0,0}, {0,1}, {0,-1}};

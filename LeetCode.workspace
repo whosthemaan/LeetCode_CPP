@@ -8,7 +8,13 @@
   <Project Name="1822_Sign_of_the_Product_of_an_Array" Path="1822_Sign_of_the_Product_of_an_Array/1822_Sign_of_the_Product_of_an_Array.project" Active="No"/>
   <Project Name="Learning_Arrays" Path="Learning_Arrays/Learning_Arrays.project" Active="No"/>
   <Project Name="1502_Can_Make_Arithmetic_Progression_From_Sequence" Path="1502_Can_Make_Arithmetic_Progression_From_Sequence/1502_Can_Make_Arithmetic_Progression_From_Sequence.project" Active="No"/>
-  <Project Name="1232_Check_if_it_is_a_straight_line" Path="1232_Check_if_it_is_a_straight_line/1232_Check_if_it_is_a_straight_line.project" Active="Yes"/>
+  <Project Name="1232_Check_if_it_is_a_straight_line" Path="1232_Check_if_it_is_a_straight_line/1232_Check_if_it_is_a_straight_line.project" Active="No"/>
+  <Project Name="1672_Richest_Customer_Wealth" Path="1672_Richest_Customer_Wealth/1672_Richest_Customer_Wealth.project" Active="No"/>
+  <Project Name="1588_Sum_of_all_odd_length_subarrays" Path="1588_Sum_of_all_odd_length_subarrays/1588_Sum_of_all_odd_length_subarrays.project" Active="No"/>
+  <Project Name="MaxConsecutiveOnes_Array" Path="MaxConsecutiveOnes_Array/MaxConsecutiveOnes_Array.project" Active="No"/>
+  <Project Name="Find_number_with_even_number_of_digits" Path="Find_number_with_even_number_of_digits/Find_number_with_even_number_of_digits.project" Active="No"/>
+  <Project Name="Squares_of_a_sorted_array" Path="Squares_of_a_sorted_array/Squares_of_a_sorted_array.project" Active="No"/>
+  <Project Name="Duplicate_zeroes" Path="Duplicate_zeroes/Duplicate_zeroes.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -21,6 +27,12 @@
       <Project Name="Learning_Arrays" ConfigName="Debug"/>
       <Project Name="1502_Can_Make_Arithmetic_Progression_From_Sequence" ConfigName="Debug"/>
       <Project Name="1232_Check_if_it_is_a_straight_line" ConfigName="Debug"/>
+      <Project Name="1672_Richest_Customer_Wealth" ConfigName="Debug"/>
+      <Project Name="1588_Sum_of_all_odd_length_subarrays" ConfigName="Debug"/>
+      <Project Name="MaxConsecutiveOnes_Array" ConfigName="Debug"/>
+      <Project Name="Find_number_with_even_number_of_digits" ConfigName="Debug"/>
+      <Project Name="Squares_of_a_sorted_array" ConfigName="Debug"/>
+      <Project Name="Duplicate_zeroes" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -33,6 +45,12 @@
       <Project Name="Learning_Arrays" ConfigName="Release"/>
       <Project Name="1502_Can_Make_Arithmetic_Progression_From_Sequence" ConfigName="Release"/>
       <Project Name="1232_Check_if_it_is_a_straight_line" ConfigName="Release"/>
+      <Project Name="1672_Richest_Customer_Wealth" ConfigName="Release"/>
+      <Project Name="1588_Sum_of_all_odd_length_subarrays" ConfigName="Release"/>
+      <Project Name="MaxConsecutiveOnes_Array" ConfigName="Release"/>
+      <Project Name="Find_number_with_even_number_of_digits" ConfigName="Release"/>
+      <Project Name="Squares_of_a_sorted_array" ConfigName="Release"/>
+      <Project Name="Duplicate_zeroes" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
