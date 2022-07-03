@@ -4,8 +4,8 @@
   <wxString Value="D:\Rohan\Cplusplus\LeetCode\LeetCode\LeetCode.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="D:\Rohan\Cplusplus\LeetCode\LeetCode\1588_Sum_of_all_odd_length_subarrays\main.cpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
+      <wxString Value="D:\Rohan\Cplusplus\LeetCode\LeetCode\Duplicate_zeroes\main.cpp" Name="FileName"/>
+      <int Value="6" Name="FirstVisibleLine"/>
       <int Value="0" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>

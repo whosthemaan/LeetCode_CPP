@@ -14,7 +14,8 @@
   <Project Name="MaxConsecutiveOnes_Array" Path="MaxConsecutiveOnes_Array/MaxConsecutiveOnes_Array.project" Active="No"/>
   <Project Name="Find_number_with_even_number_of_digits" Path="Find_number_with_even_number_of_digits/Find_number_with_even_number_of_digits.project" Active="No"/>
   <Project Name="Squares_of_a_sorted_array" Path="Squares_of_a_sorted_array/Squares_of_a_sorted_array.project" Active="No"/>
-  <Project Name="Duplicate_zeroes" Path="Duplicate_zeroes/Duplicate_zeroes.project" Active="Yes"/>
+  <Project Name="Duplicate_zeroes" Path="Duplicate_zeroes/Duplicate_zeroes.project" Active="No"/>
+  <Project Name="1_Two_Sum" Path="1_Two_Sum/1_Two_Sum.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -33,6 +34,7 @@
       <Project Name="Find_number_with_even_number_of_digits" ConfigName="Debug"/>
       <Project Name="Squares_of_a_sorted_array" ConfigName="Debug"/>
       <Project Name="Duplicate_zeroes" ConfigName="Debug"/>
+      <Project Name="1_Two_Sum" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -51,6 +53,7 @@
       <Project Name="Find_number_with_even_number_of_digits" ConfigName="Release"/>
       <Project Name="Squares_of_a_sorted_array" ConfigName="Release"/>
       <Project Name="Duplicate_zeroes" ConfigName="Release"/>
+      <Project Name="1_Two_Sum" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

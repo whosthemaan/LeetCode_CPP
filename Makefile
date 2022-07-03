@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ Duplicate_zeroes - Debug ]----------"
-	@cd "Duplicate_zeroes" && "$(MAKE)" -f  "Duplicate_zeroes.mk"
+	@echo "----------Building project:[ 1_Two_Sum - Debug ]----------"
+	@cd "1_Two_Sum" && "$(MAKE)" -f  "1_Two_Sum.mk"
 clean:
-	@echo "----------Cleaning project:[ Duplicate_zeroes - Debug ]----------"
-	@cd "Duplicate_zeroes" && "$(MAKE)" -f  "Duplicate_zeroes.mk" clean
+	@echo "----------Cleaning project:[ 1_Two_Sum - Debug ]----------"
+	@cd "1_Two_Sum" && "$(MAKE)" -f  "1_Two_Sum.mk" clean
