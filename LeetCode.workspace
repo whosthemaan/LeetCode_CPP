@@ -15,7 +15,11 @@
   <Project Name="Find_number_with_even_number_of_digits" Path="Find_number_with_even_number_of_digits/Find_number_with_even_number_of_digits.project" Active="No"/>
   <Project Name="Squares_of_a_sorted_array" Path="Squares_of_a_sorted_array/Squares_of_a_sorted_array.project" Active="No"/>
   <Project Name="Duplicate_zeroes" Path="Duplicate_zeroes/Duplicate_zeroes.project" Active="No"/>
-  <Project Name="1_Two_Sum" Path="1_Two_Sum/1_Two_Sum.project" Active="Yes"/>
+  <Project Name="1_Two_Sum" Path="1_Two_Sum/1_Two_Sum.project" Active="No"/>
+  <Project Name="9_Palindrome_Number" Path="9_Palindrome_Number/9_Palindrome_Number.project" Active="No"/>
+  <Project Name="13_Roman_to_Integer" Path="13_Roman_to_Integer/13_Roman_to_Integer.project" Active="No"/>
+  <Project Name="136_Single_Number" Path="136_Single_Number/136_Single_Number.project" Active="No"/>
+  <Project Name="Decimal_To_Binary" Path="Decimal_To_Binary/Decimal_To_Binary.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -35,6 +39,10 @@
       <Project Name="Squares_of_a_sorted_array" ConfigName="Debug"/>
       <Project Name="Duplicate_zeroes" ConfigName="Debug"/>
       <Project Name="1_Two_Sum" ConfigName="Debug"/>
+      <Project Name="9_Palindrome_Number" ConfigName="Debug"/>
+      <Project Name="13_Roman_to_Integer" ConfigName="Debug"/>
+      <Project Name="136_Single_Number" ConfigName="Debug"/>
+      <Project Name="Decimal_To_Binary" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -54,6 +62,10 @@
       <Project Name="Squares_of_a_sorted_array" ConfigName="Release"/>
       <Project Name="Duplicate_zeroes" ConfigName="Release"/>
       <Project Name="1_Two_Sum" ConfigName="Release"/>
+      <Project Name="9_Palindrome_Number" ConfigName="Release"/>
+      <Project Name="13_Roman_to_Integer" ConfigName="Release"/>
+      <Project Name="136_Single_Number" ConfigName="Release"/>
+      <Project Name="Decimal_To_Binary" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
