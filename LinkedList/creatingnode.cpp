@@ -14,6 +14,16 @@ class Node{
         this -> data = data;
         this -> next = NULL;
     }
+
+    ~Node()
+    {
+        int value = this -> data;
+        if(this->next != NULL)
+        {
+            delete next;
+            this->next = NULL;
+        }
+    }
 };
 
 void InsertAtHead(Node* &head, int d)
@@ -28,6 +38,33 @@ void InsertAtTail(Node* &tail, int d)
     Node* temp = new Node(d);
     tail -> next = temp;
     tail = temp;
+}
+
+void deletenode(int position, Node* &head)
+{
+    if(position==1)
+    {
+        Node* temp = head;
+        head = head -> next;
+        temp -> next = NULL;
+        delete temp;
+    }
+    else {
+        int cnt = 1;
+        Node* curr = head;
+        Node* prev = NULL;
+
+        while(cnt < position)
+        {
+            prev = curr;
+            curr = curr -> next;
+            cnt++;
+        }
+
+        prev -> next = curr -> next;
+        curr -> next = NULL;
+        delete curr;
+    }
 }
 
 void InsertAtPosition(Node* &tail, Node* &head, int position, int d)
@@ -75,7 +112,6 @@ void printLinkedList(Node* &head)
 int main()
 {
     Node* node1 = new Node(10);
-    // cout << node1 -> data <<endl;
 
     Node* head = node1;
     Node* tail = node1;
@@ -84,6 +120,7 @@ int main()
     InsertAtTail(tail,15);
     InsertAtHead(head, 13);
     InsertAtPosition(tail, head, 5, 11);
+    deletenode(2,head);
     printLinkedList(head);
 
     return 0;
