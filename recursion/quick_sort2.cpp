@@ -1,8 +1,9 @@
 #include <iostream>
+#include <vector>
 
 using namespace std;
 
-int partition(int arr[], int s, int e)
+int partition(vector<int>& arr, int s, int e)
 {
     int pivot = arr[s];
 
@@ -31,10 +32,9 @@ int partition(int arr[], int s, int e)
     }
 
     return pivotIndex;
-
 }
 
-void quicksort(int arr[], int s, int e)
+void quicksort(vector<int>& arr, int s, int e)
 {
     //base case
     if(s>=e)
@@ -46,16 +46,20 @@ void quicksort(int arr[], int s, int e)
     quicksort(arr, p+1, e);
 }
 
+vector<int> sortArray(vector<int>& nums) {
+    quicksort(nums, 0, nums.size()); 
+    return nums;
+}
 
 int main()
 {
-    int arr[5] = {2,4,1,9,6};
-    int n = 5;
-
-    quicksort(arr, 0, n);
-
-    for(int i=0;i<n;i++)
+    vector<int> arr;
+    arr = {2,4,1,9,6};
+    vector<int> a = sortArray(arr);
+    
+    for(int i=0;i<a.size();i++)
     {
-        cout << arr[i] << " ";
+        cout << a[i] << " ";
     } cout << endl;
+
 }
